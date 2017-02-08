@@ -1,0 +1,2 @@
+file FileIn contains strings : a3v1b1 etc.
+Method "archive" should create FileOut, that contains strings: aaavb etc.
